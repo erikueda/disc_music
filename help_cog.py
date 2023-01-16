@@ -15,8 +15,6 @@ comandos gerais:
 !leave - chuta o bot do canal atual
 !pause - pausa a musica
 !resume - despausa a musica
-Dante Corno
-Bot by Okuhama
 ```
 """
         self.text_channel_list = []
